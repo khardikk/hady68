@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about community management 
 - #### :books: Recent Blog Posts 📝
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🚀 [This article is written by an AI 👀](https://hardikkwrites.hashnode.dev/this-article-is-written-by-an-ai)
+ - 🚀 [Learnings From my first offline hackathon.](https://hardikkwrites.hashnode.dev/learnings-from-my-first-offline-hackathon)<!-- BLOGPOSTS:END -->
 
 
