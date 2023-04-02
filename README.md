@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Javascript 
+- 🔭 I’m currently working on React 
 - 🌱 I’m currently learning node.js
 - 👯 I’m looking to collaborate on community events, javascript projects 
 - 🤔 I’m looking for help with open source 
