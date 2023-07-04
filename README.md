@@ -1,4 +1,4 @@
-![Alt Text](https://i.imgur.com/xPpHsbJ.gif)
+<img src="readme.gif"/>
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
