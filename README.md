@@ -62,7 +62,7 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 </p>
 
-
+![Snake animation](https://github.com/hady68/hady68/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
