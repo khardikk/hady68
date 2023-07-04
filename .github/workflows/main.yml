@@ -1,20 +1,21 @@
-name: Hashnode Blog Posts
+name: Generate Snake Animation
+
 on:
-  schedule:
-    # Runs every 6 hours 
-    - cron: '0 */6 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with the latest blog posts
+  generate_snake_animation:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://hardikkwrites.hashnode.dev/rss.xml"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
-          commit_message: "recent posts section updated"
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Generate Snake Animation
+      uses: Platane/snk@v2
+      with:
+        github_user_name: ${{ github.hady68}}
+        outputs: |
+          dist/github-snake.svg
