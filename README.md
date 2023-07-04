@@ -1,7 +1,5 @@
-
-![White and Pink Colorful Abstract Banner (2)](https://github.com/hady68/hady68/raw/main/assets/64458111/96cc4533-8d07-4bc4-9dc0-bcfc8c9e7370.png)
-
-
+<img src="![readme](https://github.com/hady68/hady68/assets/64458111/5af08d22-a523-46c6-8a3b-9319b85de759)
+" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
