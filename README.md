@@ -1,5 +1,4 @@
-<img src="![readme](https://github.com/hady68/hady68/assets/64458111/5af08d22-a523-46c6-8a3b-9319b85de759)
-" width="100%">
+![Alt Text](https://i.imgur.com/xPpHsbJ.gif)
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
