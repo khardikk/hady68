@@ -22,6 +22,20 @@ Passionate full stack developer driven by the power of technology for positive c
 
 See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
+<h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hady68&label=Profile%20views&color=0e75b6&style=flat" alt="hady68" /> </p>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=hady68&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="hady68" style="margin-right: 20px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hady68&theme=dark-smoky&hide_border=true" alt="hady68" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hady68&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="hady68" />
+
+</div>
+
 
 <h1 align="center">Technologies</h1>
 
