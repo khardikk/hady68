@@ -1,4 +1,4 @@
-<img src="White and Pink Colorful Abstract Banner (2).gif" width="100%">
+<img src="readme.gif" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
