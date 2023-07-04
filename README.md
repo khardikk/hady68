@@ -1,4 +1,4 @@
-<img src="readme.gif"/>
+<img src="readme.gif" width="100%">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
