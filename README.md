@@ -18,7 +18,7 @@
   </a> -->
 </p>
 
-My name is Hardikk, a passionate and dedicated software engineer ready to make a lasting impact. From a young age, I immersed myself in programming languages and web development, igniting my unwavering passion for the field. With a computer science degree in hand, I have successfully freelanced, contributed to a startup, and organized tech community events as a community manager. Collaborating closely with teams, I have brought significant projects to fruition while following best practices and seeking guidance from senior developers. Additionally, my internship experience allowed me to integrate cutting-edge technologies, such as OpenAI's ChatGPT, into real-world applications. With diverse experiences, technical expertise, and a drive for excellence, I am excited to contribute to your organization's success as a software engineer.
+Passionate full stack developer driven by the power of technology for positive change, with a background in Computer Science and community management. Ready to contribute to impactful projects. Currently exploring the possibilities of AI.
 
 See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
