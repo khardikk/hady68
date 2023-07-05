@@ -29,7 +29,7 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
   <div>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hady68&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="hady68" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=hady68&theme=dark-smoky&hide_border=true" alt="hady68" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hady68&theme=dark-smoky&hide_border=true" alt="hady68" />
   </div>
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hady68&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="hady68" />
