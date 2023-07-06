@@ -32,7 +32,7 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hady68&theme=dark-smoky&hide_border=true" alt="hady68" />
   </div>
 
-  <img src="https://github-readme-stats-drab-gamma-66.vercel.app/api/top-langs?username=hady68&show_icons=true&locale=en&layout=compact&theme=rose_pine&hide_border=true" alt="hady68" />
+
 </div>
 
 
