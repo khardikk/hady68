@@ -10,12 +10,9 @@
   <a href="https://twitter.com/HdKamboj" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-<!--   <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
-<!--   <a href="https://shawncharles.com/resume" target="_blank">
+ <a href="https://drive.google.com/file/d/1nBj8X5TqaGl6d5JHWzbD-Fp9fINLXHW4/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
+  </a>
 </p>
 
 Passionate full stack developer driven by the power of technology for positive change, with a background in Computer Science and community management. Ready to contribute to impactful projects. Currently exploring the possibilities of AI.
