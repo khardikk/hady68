@@ -16,7 +16,8 @@ jobs:
         with:
           github_user_name: hady68
           outputs: |
-            dist/github-snake.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
 #  svg_out_path: dist/github-contribution-grid-snake.svg
 
