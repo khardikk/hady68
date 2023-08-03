@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Passionate full stack developer driven by the power of technology for positive change, with a background in Computer Science and community management. Ready to contribute to impactful projects. Currently exploring the possibilities of AI.
+Passionate developer driven by the power of technology or positive change, with a background in Computer Science and community management. Ready to contribute to impactful projects. Currently exploring the possibilities of AI.
 
 See [my website](https://hardikkkamboj.netlify.app/) for more information!
 
