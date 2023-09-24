@@ -24,10 +24,15 @@ See [my website](https://hardikkkamboj.netlify.app/) for more information!
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=hady68&label=Profile%20views&color=0e75b6&style=flat" alt="hady68" /> </p>
 
-  <div>
+ <!-- <div>
     <img src="https://github-readme-stats-drab-gamma-66.vercel.app/api?username=hady68&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="hady68" style="margin-bottom: 20px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hady68&theme=dark-smoky&hide_border=true" alt="hady68" />
-  </div>
+  </div> -->
+
+<img  src="https://streak-stats.demolab.com?user=hady68&theme=aura&hide_border=true&card_width=550"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=hady68&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<!--<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaTris&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>->
+<!--<img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/>-->
 
 
 </div>
